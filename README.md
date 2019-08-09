@@ -15,7 +15,7 @@ Change it as you see fit.
 
 Ok but for real, if you have never used powershell before...here's a quick way to implement this script.  Imma go SUPER laymans terms here...so sorry-not-sorry.  I figure my target audience might be someone like maybe a semi-tech-savvy grandma who just got a cool DSLR camera and wants to show off to her grandkids.
 ¯\_(ツ)_/¯
-
+or maybe it's targeted to someone who has to make a CSV to upload to a CMS and load in some metadata...and doing it manually one-by-one is totally a buzz-kill.
 
 1. Click on the little windows icon in the bottom left corner.
 2. Start typing "Powershell"
