@@ -17,7 +17,7 @@ Ok but for real, if you have never used powershell before...here's a quick way t
 
 ¯\_(ツ)_/¯
 
-or maybe it's targeted to someone who has to make a CSV to upload to a CMS and load in some metadata...and doing it manually one-by-one is totally a buzz-kill.
+..........or maybe it's targeted to someone who has to make a CSV to upload to a CMS and load in some metadata...and doing it manually one-by-one is totally a buzz-kill.
 
 
 1. Click on the little windows icon in the bottom left corner.
